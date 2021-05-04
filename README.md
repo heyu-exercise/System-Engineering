@@ -19,7 +19,7 @@
 - virtual hostname: heyu.site
 
 ## Please implement mysqldump backup shell(shell script)
-- Import sample database data to mysql:https://github.com/datacharmer/test_db
+- Import sample database(https://github.com/datacharmer/test_db) data to mysql
 - use sed & awk to dump every database for mysql backup
 - backup file name: mysql-(%Y%m%d%H)-database_name.tar.gz
 - Delete Backupfiles older than 10 days using shell script
