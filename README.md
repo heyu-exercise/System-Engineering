@@ -1,5 +1,4 @@
 # Table of Contents
-- [Initial](#initial)
 - [Table of Contents](#table-of-contents)
 - [System-Engineering](#system-engineering)
 - [Please implement exercise below](#please-implement-exercise-below)
