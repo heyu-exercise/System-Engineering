@@ -18,7 +18,7 @@
 - please config nginx and add new site for laravel default page
 - virtual hostname: heyu.site
 
-## Please implement for mysqldump backup shell(shell script)
+## Please implement mysqldump backup shell(shell script)
 - Import sample database data to mysql:https://github.com/datacharmer/test_db
 - use sed & awk to dump every database for mysql backup
 - backup file name: mysql-(%Y%m%d%H)-database_name.tar.gz
